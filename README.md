@@ -10,7 +10,3 @@ Bootstrap kütüphanesi kullanılarak tasarlanmıştır.
 
 ![](FoodiesYemekSitesi.gif)
 
-# Foodies
-# Foodies
-# Foodies
-# FoodiesYemekSitesi
